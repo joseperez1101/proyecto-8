@@ -1,0 +1,34 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.titulo{color: blue;}
+.Mis-Canciones{width: 500px;height: 200px;
+                border: 5px solid yellow;
+                border-radius: 6px;background-color: skyblue;}
+.a{text-decoration: overline;}
+.b{text-decoration: line-through;}
+.c{text-decoration: underline;}
+.d{text-decoration: underline overline;}
+img{/*float:right;*/
+	float:left;
+	/*float:inherit;*/
+	/*float:none;*/
+	}
+
+/*Actividad 3 10/08-segunda parte*/
+.a {
+  text-align: center;
+}
+
+.b {
+  text-align: left;
+}
+
+.c{
+  text-align: right;
+}
+
+.d{
+  text-align: justify;
+}
